@@ -21,7 +21,7 @@ gem 'coffee-rails', '~> 4.2'
 # See https://github.com/rails/execjs#readme for more supported runtimes
 # gem 'therubyracer', platforms: :ruby
 
-# Use cocoon for active forms
+# Use cocoon for active forms, experimental
 gem 'cocoon'
 
 # Use jquery as the JavaScript library
