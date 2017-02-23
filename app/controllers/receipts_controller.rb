@@ -21,6 +21,8 @@ class ReceiptsController < ApplicationController
   def edit
   end
 
+  # Placeholder for updated forms logic.
+
   # POST /receipts
   # POST /receipts.json
   def create
